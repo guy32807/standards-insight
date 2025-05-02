@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/standards-insight/static/css/main.1e7fe251.css",
+    "main.js": "/standards-insight/static/js/main.348efbb3.js",
+    "static/js/453.4eac34c3.chunk.js": "/standards-insight/static/js/453.4eac34c3.chunk.js",
+    "index.html": "/standards-insight/index.html",
+    "main.1e7fe251.css.map": "/standards-insight/static/css/main.1e7fe251.css.map",
+    "main.348efbb3.js.map": "/standards-insight/static/js/main.348efbb3.js.map",
+    "453.4eac34c3.chunk.js.map": "/standards-insight/static/js/453.4eac34c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e7fe251.css",
+    "static/js/main.348efbb3.js"
+  ]
+}
